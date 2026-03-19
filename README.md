@@ -28,6 +28,6 @@ A PPT online editor based on the web terminal ｜ 一款基于web端的ppt在线
 
 ## 在线办公相关解决方案
 
-1. [flowmix/docx多模态文档编辑器](https://flowmix.turntip.cn)
+1. [AI Word 协同文档编辑器](https://jitword.com)
 2. [灵语AI文档](https://mindlink.turntip.cn)
 3. [H5-Dooring智能零代码平台](https://github.com/MrXujiang/h5-Dooring)
